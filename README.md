@@ -1,6 +1,5 @@
 # Block-Loader-Animation
 Loading animation designed using HTML and CSS <br>
-To see how it looks, click [here](https://glassmorphism-login-form-example.netlify.app/).
 
 ### Preview <br> <br>
 
